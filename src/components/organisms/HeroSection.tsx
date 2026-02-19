@@ -3,7 +3,7 @@ import Title from "@/components/atoms/Title";
 export default function HeroSection() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
-      <Title className="bg-blue-400">HeroSection</Title>
+      <Title className="bg-green-600">HeroSection</Title>
       <Text size="md">
         This section represents the HeroSection of the website.
       </Text>
