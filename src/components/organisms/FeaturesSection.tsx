@@ -3,7 +3,7 @@ import Title from "@/components/atoms/Title";
 export default function FeaturesSection() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
-      <Title className="bg-blue-400">FeaturesSection</Title>
+      <Title className="bg-green-600">FeaturesSection</Title>
       <Text size="md">
         This section represents the FeaturesSection of the website.
       </Text>
